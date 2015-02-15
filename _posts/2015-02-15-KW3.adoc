@@ -3,4 +3,4 @@
 :hp-tags: photo,2015
 :published_at: 2015-02-15
 
-:image: https://github.com/RainerW/photos.hubpress.io/blob/gh-pages/images/20150125_Boiler-.jpg?raw=true
+:hp-image: https://github.com/RainerW/photos.hubpress.io/blob/gh-pages/images/20150125_Boiler-.jpg?raw=true
